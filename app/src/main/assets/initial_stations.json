@@ -1,0 +1,7457 @@
+[
+  {
+    "network": "ТЭС",
+    "address": "Бахчисарайский район, с. Вилино, ул. Кулиняка, 18",
+    "latitude": 44.845662,
+    "longitude": 33.66008,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Бахчисарайский район, с. Железнодорожное, ул. Дружбы, 45",
+    "latitude": 44.71206,
+    "longitude": 33.800637,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Белогорский район, Криничненское сельское поселение, трасса Таврида",
+    "latitude": 45.069825,
+    "longitude": 34.600861,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Белогорский район, Мичуринское сельское поселение, 155-й километр трассы Таврида",
+    "latitude": 45.083889,
+    "longitude": 34.643247,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Белогорский район, пгт. Зуя, пер. Мирный, 25",
+    "latitude": 45.060941,
+    "longitude": 34.326163,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Кировский район, с. Абрикосовка, 114-й км трассы А291 «Таврида»",
+    "latitude": 45.102922,
+    "longitude": 35.125771,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Кировский район, с. Абрикосовка, 115-й км трассы А291 «Таврида»",
+    "latitude": 45.100002,
+    "longitude": 35.114959,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "FREE_SALE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Красногвардейский район, пгт. Красногвардейское, ул. Матросова-2, 13",
+    "latitude": 45.489745,
+    "longitude": 34.30241,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "FREE_SALE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Красногвардейский район, с. Амурское, ул. Русская, 2а",
+    "latitude": 45.278069,
+    "longitude": 34.123019,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Красногвардейский район, с. Симоненко, 214 км трассы Херсон-Симферополь",
+    "latitude": 45.297414,
+    "longitude": 33.907962,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Ленинский район, пгт. Ленино, ул. Шоссейная, 21",
+    "latitude": 45.299703,
+    "longitude": 35.785647,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Ленинский район, с. Батальное, 75-й километр трассы А291 «Таврида»",
+    "latitude": 45.174821,
+    "longitude": 35.58698,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "FREE_SALE",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Ленинский район, с. Батальное, 76-й км трассы А291 «Таврида»",
+    "latitude": 45.16804,
+    "longitude": 35.571217,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "FREE_SALE",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "FREE_SALE",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Ленинский район, с. Луговое, ул. Шоссейная, 27",
+    "latitude": 45.23712,
+    "longitude": 35.709937,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Нижнегорский район, Уваровское сельское поселение, пересечение трасс Джанкой-Феодосия",
+    "latitude": 45.475006,
+    "longitude": 34.777715,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Нижнегорский район, пгт. Нижнегорский, ул. Победы, 108А",
+    "latitude": 45.459454,
+    "longitude": 34.727315,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Нижнегорский район, пгт. Нижнегорский, ул. Победы, 1А",
+    "latitude": 45.43504,
+    "longitude": 34.739756,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Раздольненский район, пгт. Раздольное, ул. Антона Кима, 1а",
+    "latitude": 45.761199,
+    "longitude": 33.494108,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Сакский р-он, с. Михайловка, 2 км трассы Саки-Орловка",
+    "latitude": 45.111178,
+    "longitude": 33.645874,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Симферопольский район, с. Мирное, ул. Евпаторийская, 180",
+    "latitude": 44.995845,
+    "longitude": 34.05865,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Симферопольский район, с. Новый Мир, ул. Мира, 28",
+    "latitude": 45.059596,
+    "longitude": 33.92258,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Симферопольский район, с. Перевальное, ул. Дачная, 115А",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Симферопольский район, с. Строгоновка, ул. Озенбаш, 13",
+    "latitude": 44.95256,
+    "longitude": 34.153668,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Симферопольский район, с. Трудолюбово, трасса Таврида (Дубки-Левадки)",
+    "latitude": 44.885439,
+    "longitude": 34.011651,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "FREE_SALE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "FREE_SALE",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Симферопольский район, с. Трудолюбово, трасса Таврида (Левадки-Дубки)",
+    "latitude": 44.886111,
+    "longitude": 34.013259,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "FREE_SALE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "FREE_SALE",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Симферопольский район, с. Чистенькое, 6 км трассы Симферополь-Севастополь",
+    "latitude": 44.890673,
+    "longitude": 34.048196,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Черноморский район, пгт. Черноморское, ул. Евпаторийская, 21",
+    "latitude": 45.500518,
+    "longitude": 32.716391,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Алушта, ул. Симферопольская, 11",
+    "latitude": 44.67668,
+    "longitude": 34.39748,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Алушта, ул. Судакская, 1",
+    "latitude": 44.688345,
+    "longitude": 34.413964,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Армянск, Симферопольское шоссе, 14",
+    "latitude": 46.115871,
+    "longitude": 33.689961,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Бахчисарай, ул. Кооперативная, 7А",
+    "latitude": 44.744955,
+    "longitude": 33.852449,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Бахчисарай, ул. Мира, 2А",
+    "latitude": 44.737039,
+    "longitude": 33.837947,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Бахчисарай, ул. Симферопольская, 46",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Джанкой, ул. Толстого, 49",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "FREE_SALE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "FREE_SALE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Евпатория, Красноярское шоссе, 22А",
+    "latitude": 45.228125,
+    "longitude": 33.359809,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Евпатория, ул. Интернациональная, 152",
+    "latitude": 45.198706,
+    "longitude": 33.327985,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Евпатория, ул. Чапаева, 18",
+    "latitude": 45.209371,
+    "longitude": 33.342005,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Керчь, ул. Свердлова, 49В",
+    "latitude": 45.338369,
+    "longitude": 36.457353,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Красноперекопск, ул. Таврическая, 12А",
+    "latitude": 45.955216,
+    "longitude": 33.789429,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Саки, ул. Строительная, 27",
+    "latitude": 45.137939,
+    "longitude": 33.595977,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, пер. Элеваторный, 12",
+    "latitude": 44.94049,
+    "longitude": 34.06852,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "FREE_SALE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "FREE_SALE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, проспект Победы, 238",
+    "latitude": 44.975515,
+    "longitude": 34.135684,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "FREE_SALE",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. 60 лет Октября, 43",
+    "latitude": 44.906707,
+    "longitude": 34.076552,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Воровского, 19А",
+    "latitude": 44.949118,
+    "longitude": 34.11523,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Героев Сталинграда, 20",
+    "latitude": 44.937258,
+    "longitude": 34.047084,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Долетова, 2",
+    "latitude": 44.938317,
+    "longitude": 34.123207,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Киевская, 156Б",
+    "latitude": 44.983638,
+    "longitude": 34.084301,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "FREE_SALE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Киевская, 191",
+    "latitude": 44.988113,
+    "longitude": 34.087184,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Куйбышева, 227",
+    "latitude": 44.985281,
+    "longitude": 34.104372,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "FREE_SALE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Русская, 136Д",
+    "latitude": 44.922154,
+    "longitude": 34.095526,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Севастопольская, 261",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "FREE_SALE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Севастопольская, 37Б",
+    "latitude": 44.930647,
+    "longitude": 34.086493,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "FREE_SALE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Симферополь, ул. Ялтинская, 167",
+    "latitude": 44.925752,
+    "longitude": 34.138424,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Судак, Феодоссийское шоссе, 12А",
+    "latitude": 44.863829,
+    "longitude": 34.98629,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Феодосия, Керченское шоссе, 1а",
+    "latitude": 45.050488,
+    "longitude": 35.351689,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "FREE_SALE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Феодосия, ул. Челнокова, 2А",
+    "latitude": 45.032376,
+    "longitude": 35.368246,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "г. Ялта, Южнобережное шоссе, 22",
+    "latitude": 44.515002,
+    "longitude": 34.162135,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "городской округ Алушта, с. Виноградное, 104 км+ 400 м трассы Севастополь-Феодосия",
+    "latitude": 44.634327,
+    "longitude": 34.364452,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "городской округ Алушта, с. Малореченское, ул. Больничная, 5В",
+    "latitude": 44.758779,
+    "longitude": 34.562851,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "городской округ Симферополь, пгт. Грэсовский, ул. Кржижановского, 40",
+    "latitude": 45.012222,
+    "longitude": 34.024822,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "городской округ Симферополь, посёлок Битумное, 9 километр трассы М-18",
+    "latitude": 45.012579,
+    "longitude": 34.050902,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "городской округ Ялта, пгт. Кореиз, Кореизское шоссе, 3",
+    "latitude": 44.439083,
+    "longitude": 34.083654,
+    "fuelStatus": {
+      "ai_92": "FREE_SALE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "FREE_SALE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "городской округ Ялта, пгт. Ливадия, Севастопольское шоссе, 26",
+    "latitude": 44.478309,
+    "longitude": 34.142637,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "пгт. Массандра, Южнобережное шоссе, 18",
+    "latitude": 44.510599,
+    "longitude": 34.192484,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "Гениченский р-н, с. Червоное, ул. Гагарина, 90",
+    "latitude": 46.197634,
+    "longitude": 34.684644,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТЭС",
+    "address": "с. Сальково, ул. Сивашская, 10",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.057441,
+    "longitude": 34.304172,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "ул. Крылова, 166А, Симферополь",
+    "latitude": 44.926675,
+    "longitude": 34.116643,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "",
+    "latitude": 45.504685,
+    "longitude": 34.390285,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.015935,
+    "longitude": 34.16444,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "",
+    "latitude": 44.980502,
+    "longitude": 34.145511,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "Полевая ул., 2А, п. г. т. Красногвардейское",
+    "latitude": 45.517009,
+    "longitude": 34.304524,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "пер. Строителей, 1А, Симферополь",
+    "latitude": 44.960967,
+    "longitude": 34.075418,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Николая Бойко, 2А, Белогорск",
+    "latitude": 45.050575,
+    "longitude": 34.587387,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.130999,
+    "longitude": 35.487875,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Севастопольская ул., 1, село Глубокий Яр",
+    "latitude": 44.810219,
+    "longitude": 33.924174,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Южнобережное ш., 87, п. г. т. Никита",
+    "latitude": 44.517631,
+    "longitude": 34.225114,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.726745,
+    "longitude": 34.424741,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.760429,
+    "longitude": 33.839849,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Южнобережное ш., 9А, Алупка",
+    "latitude": 44.416392,
+    "longitude": 34.033304,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Мустанг",
+    "address": "ул. Героев Сталинграда, 8А, Симферополь",
+    "latitude": 44.937839,
+    "longitude": 34.055782,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Ленина, 60, Алушта",
+    "latitude": 44.68753,
+    "longitude": 34.403364,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Toil",
+    "address": "ул. Свидерского, 1В, село Угловое",
+    "latitude": 44.817284,
+    "longitude": 33.62101,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Валентины Хребтовой, 1А, село Вишенное",
+    "latitude": 45.129562,
+    "longitude": 34.59705,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "ул. Крылова, 166А, Симферополь",
+    "latitude": 44.926675,
+    "longitude": 34.116643,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "пер. Строителей, 1А, Симферополь",
+    "latitude": 44.960967,
+    "longitude": 34.075418,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АМК",
+    "address": "",
+    "latitude": 45.851948,
+    "longitude": 34.497877,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Втг",
+    "address": "Фабричная ул., 112, Керчь",
+    "latitude": 45.280324,
+    "longitude": 36.405157,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "Полевая ул., 2А, п. г. т. Красногвардейское",
+    "latitude": 45.517009,
+    "longitude": 34.304524,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Социальная АЗС",
+    "address": "",
+    "latitude": 45.056041,
+    "longitude": 35.363846,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Севастопольская",
+    "address": "ул. Шабалина, 23, Севастополь",
+    "latitude": 44.573445,
+    "longitude": 33.508836,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АМК",
+    "address": "",
+    "latitude": 45.726162,
+    "longitude": 34.400312,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Мустанг",
+    "address": "Севастопольская ул., 33В, Симферополь",
+    "latitude": 44.934227,
+    "longitude": 34.088825,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АМК",
+    "address": "",
+    "latitude": 45.719315,
+    "longitude": 34.420809,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "",
+    "latitude": 44.980502,
+    "longitude": 34.145511,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АМК",
+    "address": "",
+    "latitude": 45.663282,
+    "longitude": 34.381021,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.49634,
+    "longitude": 32.719672,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.015695,
+    "longitude": 34.168333,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Феодосийское Шоссе, 14, Судак",
+    "latitude": 44.867014,
+    "longitude": 34.986834,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Эскадронная ул., 25, Евпатория",
+    "latitude": 45.206832,
+    "longitude": 33.384145,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Топливный альянс",
+    "address": "",
+    "latitude": 45.093714,
+    "longitude": 35.080562,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.055126,
+    "longitude": 34.048194,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Южнобережное ш., 44, Ялта",
+    "latitude": 44.500553,
+    "longitude": 34.145222,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Социальная",
+    "address": "",
+    "latitude": 45.048865,
+    "longitude": 34.613406,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.265914,
+    "longitude": 35.821928,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Южнобережное ш., 38, Алупка",
+    "latitude": 44.428078,
+    "longitude": 34.056057,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Т-Нефть",
+    "address": "Южнобережное ш., 1, п. г. т. Симеиз",
+    "latitude": 44.412506,
+    "longitude": 34.013448,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Предгорная ул., 66, село Заречное",
+    "latitude": 44.853136,
+    "longitude": 34.286498,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Алуштинская ул., 45, село Кипарисное",
+    "latitude": 44.603954,
+    "longitude": 34.354396,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Евпаторийское ш., 79Б, Саки",
+    "latitude": 45.135072,
+    "longitude": 33.606944,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.581113,
+    "longitude": 34.321542,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Евпаторийское ш., 41, Саки",
+    "latitude": 45.124103,
+    "longitude": 33.638772,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Ленина, 150, п. г. т. Коктебель",
+    "latitude": 44.970332,
+    "longitude": 35.257328,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.891105,
+    "longitude": 34.556077,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. 2-й Гвардейской Армии, 12, Евпатория",
+    "latitude": 45.211091,
+    "longitude": 33.369122,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.516243,
+    "longitude": 33.876368,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Ленина, 1Б, село Голубинка",
+    "latitude": 44.60013,
+    "longitude": 33.907852,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Формула",
+    "address": "Киевская ул., 231, Симферополь",
+    "latitude": 44.988531,
+    "longitude": 34.080783,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Феодосийская ул., 36, село Донское",
+    "latitude": 45.023548,
+    "longitude": 34.237249,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Мустанг",
+    "address": "Алуштинская ул., 88А, село Пионерское",
+    "latitude": 44.8781,
+    "longitude": 34.207666,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 44.967728,
+    "longitude": 33.702633,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Веста",
+    "address": "ул. Сытникова, 30, Евпатория",
+    "latitude": 45.196786,
+    "longitude": 33.347368,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Железнодорожная ул., 17, село Приятное Свидание",
+    "latitude": 44.847009,
+    "longitude": 34.005514,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Столетовский просп., 5, Севастополь",
+    "latitude": 44.586081,
+    "longitude": 33.450357,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Камышовое ш., 2, Севастополь",
+    "latitude": 44.572824,
+    "longitude": 33.441214,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "просп. Победы, 211Б, Симферополь",
+    "latitude": 44.977568,
+    "longitude": 34.141295,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Садовая ул., 55А, п. г. т. Заозёрное",
+    "latitude": 45.162528,
+    "longitude": 33.264197,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Южнобережное ш., 27Г, Ялта",
+    "latitude": 44.515197,
+    "longitude": 34.164961,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Виноградная ул., 3, Алушта",
+    "latitude": 44.673703,
+    "longitude": 34.393572,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.892161,
+    "longitude": 34.184323,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.28956,
+    "longitude": 34.150066,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.316649,
+    "longitude": 36.337462,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Дорожная ул., 16, село Орловка",
+    "latitude": 44.728923,
+    "longitude": 33.589654,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Республика Крым, Кировский район, А-291, 130-й километр, 2",
+    "latitude": 45.088992,
+    "longitude": 34.927648,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Т-Нефть",
+    "address": "Южнобережное ш., 7, п. г. т. Виноградное",
+    "latitude": 44.484008,
+    "longitude": 34.130301,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Приморская ул., 28, село Ивановка",
+    "latitude": 45.062963,
+    "longitude": 33.656403,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "",
+    "latitude": 45.100211,
+    "longitude": 33.576045,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 45.064335,
+    "longitude": 35.378249,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.339359,
+    "longitude": 34.904681,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Топливный альянс",
+    "address": "",
+    "latitude": 45.336771,
+    "longitude": 34.912169,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Объездная дорога, 22, Симферополь",
+    "latitude": 44.984644,
+    "longitude": 34.130464,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС Севастопольская",
+    "address": "ул. Симонок, 37А, Севастополь",
+    "latitude": 44.634151,
+    "longitude": 33.534089,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 44.981027,
+    "longitude": 34.131827,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.418564,
+    "longitude": 35.801837,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Формула",
+    "address": "ул. Генерала Васильева, 38А, Симферополь",
+    "latitude": 44.931582,
+    "longitude": 34.073019,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "Сахалинская ул., 9, село Колоски",
+    "latitude": 45.275274,
+    "longitude": 33.296381,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.595703,
+    "longitude": 33.531487,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 45.045219,
+    "longitude": 34.64776,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Мустанг",
+    "address": "",
+    "latitude": 45.210159,
+    "longitude": 33.372419,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Партнер",
+    "address": "",
+    "latitude": 45.058466,
+    "longitude": 34.327457,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Качинское ш., вл2, Севастополь",
+    "latitude": 44.674359,
+    "longitude": 33.566414,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.960186,
+    "longitude": 34.060961,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Богдана Хмельницкого, 41, п. г. т. Первомайское",
+    "latitude": 45.710764,
+    "longitude": 33.850556,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Горпищенко, 155, Севастополь",
+    "latitude": 44.575676,
+    "longitude": 33.581135,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "село Грушевое, 15",
+    "latitude": 45.00815,
+    "longitude": 34.034769,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.683895,
+    "longitude": 33.646199,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Евпаторийское ш., 20, Симферополь",
+    "latitude": 44.977222,
+    "longitude": 34.075417,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "просп. Победы, 105, Симферополь",
+    "latitude": 44.964823,
+    "longitude": 34.126173,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Карантинная ул., 51, Севастополь",
+    "latitude": 44.605441,
+    "longitude": 33.5107,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Мустанг",
+    "address": "",
+    "latitude": 44.573638,
+    "longitude": 33.532845,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.946678,
+    "longitude": 34.082251,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Севастополь, Балаклавский муниципальный округ, улица Новикова, 51Б",
+    "latitude": 44.519853,
+    "longitude": 33.582418,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Салгирная ул., 26, село Белоглинка",
+    "latitude": 45.002568,
+    "longitude": 34.050428,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Т-Нефть",
+    "address": "Объездная дорога, 6, Симферополь",
+    "latitude": 44.990421,
+    "longitude": 34.106663,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Ковыльная ул., 72А, Симферополь",
+    "latitude": 44.985653,
+    "longitude": 34.127685,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 45.375534,
+    "longitude": 33.225652,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Red Petrol",
+    "address": "",
+    "latitude": 44.947223,
+    "longitude": 33.839704,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Чапаева, 50, Евпатория",
+    "latitude": 45.209554,
+    "longitude": 33.326448,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Партнер",
+    "address": "",
+    "latitude": 44.867662,
+    "longitude": 34.964353,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "ул. Гагарина, 2Б, село Горностаевка",
+    "latitude": 45.27803,
+    "longitude": 36.189552,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "ул. Дубинина, 3А, село Батальное",
+    "latitude": 45.189759,
+    "longitude": 35.611717,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Интернациональная ул., 86/15, Евпатория",
+    "latitude": 45.200986,
+    "longitude": 33.370233,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Строителей, 6, п. г. т. Красногвардейское",
+    "latitude": 45.486571,
+    "longitude": 34.286572,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "ул. Хрусталёва, 2А, село Малое Садовое",
+    "latitude": 44.641565,
+    "longitude": 33.833972,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Южнобережное ш., 75, Ялта",
+    "latitude": 44.494908,
+    "longitude": 34.129495,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 45.001326,
+    "longitude": 34.064555,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Социальная",
+    "address": "ул. Феодосийское Шоссе, 1, Судак",
+    "latitude": 44.865534,
+    "longitude": 34.975295,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Формула",
+    "address": "просп. Академика Вернадского, 20А, Симферополь",
+    "latitude": 44.931635,
+    "longitude": 34.13685,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Маршала Жукова, 40, Симферополь",
+    "latitude": 44.946459,
+    "longitude": 34.054298,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Богданова, 155, Севастополь",
+    "latitude": 44.639313,
+    "longitude": 33.589363,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Южнобережное ш., 17В, Ялта",
+    "latitude": 44.51049,
+    "longitude": 34.191414,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Кечкеметская ул., 184Б, Симферополь",
+    "latitude": 44.97432,
+    "longitude": 34.127803,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.239639,
+    "longitude": 33.589664,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Балаклавская ул., 35А, Симферополь",
+    "latitude": 44.923403,
+    "longitude": 34.102213,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Киевская ул., 148Б, Симферополь",
+    "latitude": 44.981711,
+    "longitude": 34.086272,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "ул. Калинина, 111, село Скворцово",
+    "latitude": 45.072802,
+    "longitude": 33.832818,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 45.049247,
+    "longitude": 33.955219,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.423747,
+    "longitude": 34.262506,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Нефтетрейдер",
+    "address": "",
+    "latitude": 44.944415,
+    "longitude": 33.856685,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "",
+    "latitude": 45.326042,
+    "longitude": 34.182791,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "А-291, подъезд к Феодосии, 23",
+    "latitude": 45.070982,
+    "longitude": 35.383992,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "ул. Глинки, 61А, Симферополь",
+    "latitude": 44.976886,
+    "longitude": 34.149449,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Адмирала Фадеева, 40/1, Севастополь",
+    "latitude": 44.598057,
+    "longitude": 33.462041,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Камышовое ш., 32, Севастополь",
+    "latitude": 44.565949,
+    "longitude": 33.472066,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Фиолентовское ш., 4А, Севастополь",
+    "latitude": 44.5821,
+    "longitude": 33.470088,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "НК",
+    "address": "Карадагский пер., 8, п. г. т. Щебетовка",
+    "latitude": 44.939639,
+    "longitude": 35.171368,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Руднева, 44, Севастополь",
+    "latitude": 44.591787,
+    "longitude": 33.486621,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 45.00777,
+    "longitude": 34.035901,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 44.940715,
+    "longitude": 34.075179,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Керченское ш., 27Д, Феодосия",
+    "latitude": 45.07199,
+    "longitude": 35.400362,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 45.211456,
+    "longitude": 33.36345,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 45.260318,
+    "longitude": 34.124438,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Топливный альянс",
+    "address": "Советское ш., 13Д, п. г. т. Кировское",
+    "latitude": 45.235755,
+    "longitude": 35.195439,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "КрымРоз",
+    "address": "пер. Тынчлик, 7, село Акрополис",
+    "latitude": 45.001305,
+    "longitude": 34.176855,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Социальная",
+    "address": "",
+    "latitude": 44.746412,
+    "longitude": 33.850603,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Генерала Родионова, 3Б, Симферополь",
+    "latitude": 44.924943,
+    "longitude": 34.13821,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Дрыгина, 16, село Гончарное",
+    "latitude": 44.467332,
+    "longitude": 33.704051,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Веста",
+    "address": "",
+    "latitude": 45.476789,
+    "longitude": 33.088709,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ОПТ SF",
+    "address": "Республика Крым, 35Н-338, 1",
+    "latitude": 45.27273,
+    "longitude": 36.057252,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "ул. Ленина, 1Б, село Трактовое",
+    "latitude": 45.315979,
+    "longitude": 33.907643,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Севастопольская ул., 55А, Симферополь",
+    "latitude": 44.924408,
+    "longitude": 34.08188,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Южнобережное ш., 2, п. г. т. Виноградное",
+    "latitude": 44.484259,
+    "longitude": 34.131369,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Брестская ул., 17, Севастополь",
+    "latitude": 44.603168,
+    "longitude": 33.540524,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.339753,
+    "longitude": 36.404449,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Республика Крым, городской округ Ялта, Южнобережное шоссе, 24",
+    "latitude": 44.513618,
+    "longitude": 34.170359,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Камышовое ш., 7В, Севастополь",
+    "latitude": 44.54999,
+    "longitude": 33.515387,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.764846,
+    "longitude": 33.871833,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Атлас",
+    "address": "Севастопольская ул., 33А, Симферополь",
+    "latitude": 44.935248,
+    "longitude": 34.085522,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Нефтетрейд",
+    "address": "Воронежская ул., 165, село Софиевка",
+    "latitude": 45.095805,
+    "longitude": 33.998563,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Formula",
+    "address": "Просторная ул., 26, село Заречное",
+    "latitude": 44.852582,
+    "longitude": 34.289037,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Севастопольская ул., 260, Симферополь",
+    "latitude": 44.907854,
+    "longitude": 34.063594,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Каламитская ул., 16, село Прибрежное",
+    "latitude": 45.151116,
+    "longitude": 33.495898,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "Объездная ул., 1, п. г. т. Молодёжное",
+    "latitude": 44.988778,
+    "longitude": 34.086176,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Симферопольское ш., 18А, Севастополь",
+    "latitude": 44.615061,
+    "longitude": 33.60424,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Московская ул., 92, село Богатое",
+    "latitude": 45.026174,
+    "longitude": 34.776423,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "ул. Шевченко, 67, Белогорск",
+    "latitude": 45.053563,
+    "longitude": 34.58343,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.113366,
+    "longitude": 34.028626,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Олега Кошевого, 1А, Севастополь",
+    "latitude": 44.586992,
+    "longitude": 33.516643,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Симферопольское ш., 18А, Севастополь",
+    "latitude": 44.615061,
+    "longitude": 33.60424,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Московская ул., 92, село Богатое",
+    "latitude": 45.026174,
+    "longitude": 34.776423,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "ул. Шевченко, 67, Белогорск",
+    "latitude": 45.053563,
+    "longitude": 34.58343,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.113366,
+    "longitude": 34.028626,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Олега Кошевого, 1А, Севастополь",
+    "latitude": 44.586992,
+    "longitude": 33.516643,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "просп. Победы, 279, Симферополь",
+    "latitude": 44.985509,
+    "longitude": 34.153629,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Аtan",
+    "address": "Симферопольское ш., 25, Феодосия",
+    "latitude": 45.040985,
+    "longitude": 35.367199,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Кезлевская ул., 1В, село Укромное",
+    "latitude": 45.03725,
+    "longitude": 34.000537,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Старт",
+    "address": "Южнобережное ш., 2Б, п. г. т. Никита",
+    "latitude": 44.517936,
+    "longitude": 34.244099,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Старт",
+    "address": "ул. Данилова, 66, Симферополь",
+    "latitude": 44.924855,
+    "longitude": 34.07169,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Объездная ул., 13, Симферополь",
+    "latitude": 44.942114,
+    "longitude": 34.08755,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Ultra",
+    "address": "Балаклавская ул., 1Л/1, село Терновка",
+    "latitude": 44.58235,
+    "longitude": 33.749499,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Старт",
+    "address": "Керченское ш., 12А, Феодосия",
+    "latitude": 45.054818,
+    "longitude": 35.36319,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.778587,
+    "longitude": 33.487906,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Камышовое ш., 2Д, Севастополь",
+    "latitude": 44.550127,
+    "longitude": 33.521566,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 45.296178,
+    "longitude": 34.148463,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Арсенал",
+    "address": "Ялтинская ул., 13, село Танковое",
+    "latitude": 44.66677,
+    "longitude": 33.791461,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.136582,
+    "longitude": 33.606028,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ТАТНафта",
+    "address": "Шоссейная ул., 13, село Грушевка",
+    "latitude": 45.014694,
+    "longitude": 34.969162,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Нефтетрейдер",
+    "address": "",
+    "latitude": 45.212764,
+    "longitude": 34.092876,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТАТНафта",
+    "address": "Шоссейная ул., 13, село Грушевка",
+    "latitude": 45.014694,
+    "longitude": 34.969162,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Нефтетрейдер",
+    "address": "",
+    "latitude": 45.212764,
+    "longitude": 34.092876,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "просп. Победы, 209Е, Симферополь",
+    "latitude": 44.975342,
+    "longitude": 34.137726,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "ул. Гагарина, 97Б, п. г. т. Гвардейское",
+    "latitude": 45.121061,
+    "longitude": 34.01912,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.51684,
+    "longitude": 34.179831,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 45.143292,
+    "longitude": 33.504977,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Вакуленчука, 35Б/2, Севастополь",
+    "latitude": 44.587705,
+    "longitude": 33.479795,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "ул. Вакуленчука, 45, Севастополь",
+    "latitude": 44.584982,
+    "longitude": 33.477794,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Хрусталёва, 62А, Севастополь",
+    "latitude": 44.562718,
+    "longitude": 33.519672,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Веста",
+    "address": "Эскадронная ул., 24, Евпатория",
+    "latitude": 45.206114,
+    "longitude": 33.386125,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Альянс",
+    "address": "ул. Победы, 4, п. г. т. Нижнегорский",
+    "latitude": 45.431967,
+    "longitude": 34.739187,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Таврическая ул., 153, Красноперекопск",
+    "latitude": 45.938778,
+    "longitude": 33.810529,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "Промышленная ул., 3Г, Саки",
+    "latitude": 45.135094,
+    "longitude": 33.610311,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Керченское ш., 18Б, Феодосия",
+    "latitude": 45.058488,
+    "longitude": 35.369886,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС Альянс",
+    "address": "Азовская ул., 12, п. г. т. Ленино",
+    "latitude": 45.302201,
+    "longitude": 35.763759,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "Южная ул., 27, село Изюмовка",
+    "latitude": 45.052075,
+    "longitude": 35.152434,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.792611,
+    "longitude": 34.118459,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Дарма",
+    "address": "",
+    "latitude": 44.446549,
+    "longitude": 34.116859,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Vtg",
+    "address": "Степная ул., 5, село Красная Поляна",
+    "latitude": 45.477728,
+    "longitude": 32.945057,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Веста",
+    "address": "",
+    "latitude": 45.498856,
+    "longitude": 32.714435,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Таврическая ул., 2В, Красноперекопск",
+    "latitude": 45.963466,
+    "longitude": 33.779478,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Таврическая ул., 2В, Красноперекопск",
+    "latitude": 45.963466,
+    "longitude": 33.779478,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Камышовое ш., 12А, Севастополь",
+    "latitude": 44.554109,
+    "longitude": 33.513222,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 44.574386,
+    "longitude": 33.514403,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RVana",
+    "address": "ул. Новосёлов, 6Б, село Зыбины",
+    "latitude": 45.238621,
+    "longitude": 34.638266,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Musnafta",
+    "address": "Заречная ул., 26, село Новопавловка",
+    "latitude": 44.833665,
+    "longitude": 33.976696,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "",
+    "latitude": 45.130377,
+    "longitude": 33.616359,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "Симферопольское ш., 1А, село Насыпное",
+    "latitude": 45.051173,
+    "longitude": 35.288437,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Старт",
+    "address": "Объездная дорога, 8, Симферополь",
+    "latitude": 44.988211,
+    "longitude": 34.119387,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "ул. Ленина, 69, село Новопавловка",
+    "latitude": 44.82476,
+    "longitude": 33.961786,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "ул. Руднева, 15А, Севастополь",
+    "latitude": 44.590553,
+    "longitude": 33.502839,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Семипалатинская ул., 2Б, Севастополь",
+    "latitude": 44.594005,
+    "longitude": 33.551901,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Ленина, 115, Алушта",
+    "latitude": 44.69791,
+    "longitude": 34.395298,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "Дачная ул., 7А, село Перевальное",
+    "latitude": 44.852015,
+    "longitude": 34.306858,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Аблякимов",
+    "address": "ул. Николая Бойко, 19, Белогорск",
+    "latitude": 45.049443,
+    "longitude": 34.599222,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС 95/92",
+    "address": "",
+    "latitude": 45.221572,
+    "longitude": 33.354295,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Севастопольская ул., 253, Симферополь",
+    "latitude": 44.908158,
+    "longitude": 34.063068,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Веста",
+    "address": "Раздольненское ш., 27, Евпатория",
+    "latitude": 45.233071,
+    "longitude": 33.388559,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 44.937072,
+    "longitude": 34.083659,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 44.960708,
+    "longitude": 34.076275,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Симферопольское ш., 11, село Солнечное",
+    "latitude": 45.050193,
+    "longitude": 35.334797,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 45.54424,
+    "longitude": 34.692132,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Льва Толстого, 51А, Севастополь",
+    "latitude": 44.587836,
+    "longitude": 33.509338,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Балаклавское ш., 12, Севастополь",
+    "latitude": 44.548249,
+    "longitude": 33.535373,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Формула",
+    "address": "Республика Крым, городской округ Ялта, Южнобережное шоссе, 27Б",
+    "latitude": 44.515806,
+    "longitude": 34.160995,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Магистраль",
+    "address": "Нижнегорская ул., 53А, Белогорск",
+    "latitude": 45.061224,
+    "longitude": 34.602926,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 44.978842,
+    "longitude": 34.150478,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "ул. Матросова, 76, п. г. т. Красногвардейское",
+    "latitude": 45.498494,
+    "longitude": 34.307132,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Соил",
+    "address": "",
+    "latitude": 45.061787,
+    "longitude": 34.560498,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Нефтетрейдер",
+    "address": "Севастопольское ш., 22, село Чистенькое",
+    "latitude": 44.873552,
+    "longitude": 34.034406,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Богданова, 59, Севастополь",
+    "latitude": 44.635456,
+    "longitude": 33.560076,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Камышовое ш., 2А, Севастополь",
+    "latitude": 44.550488,
+    "longitude": 33.524222,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Vars",
+    "address": "",
+    "latitude": 45.006487,
+    "longitude": 34.882241,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Мира, 1, село Семенное",
+    "latitude": 45.459851,
+    "longitude": 34.764456,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Челнокова, 71, Феодосия",
+    "latitude": 45.033139,
+    "longitude": 35.350226,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС Бахчисарайская",
+    "address": "Симферопольская ул., 44, Бахчисарай",
+    "latitude": 44.761558,
+    "longitude": 33.867639,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Бородина, 67, Симферополь",
+    "latitude": 44.965572,
+    "longitude": 34.141037,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Витэк",
+    "address": "ул. Мальченко, 17А, п. г. т. Аэрофлотский",
+    "latitude": 45.017448,
+    "longitude": 34.00136,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Сабадашева, 15, село Брянское",
+    "latitude": 44.87099,
+    "longitude": 33.797763,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "",
+    "latitude": 44.99714,
+    "longitude": 34.070248,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "К-78",
+    "address": "Камышовое ш., 78, Севастополь",
+    "latitude": 44.571428,
+    "longitude": 33.445435,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Русская ул., 136Г, Симферополь",
+    "latitude": 44.92306,
+    "longitude": 34.0964,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Изумрудновская ул., 2А, Джанкой",
+    "latitude": 45.727871,
+    "longitude": 34.423371,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Веста",
+    "address": "Черноморское ш., 12, Евпатория",
+    "latitude": 45.223706,
+    "longitude": 33.350591,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Старт",
+    "address": "Центральная ул., 2, село Орехово",
+    "latitude": 45.128268,
+    "longitude": 33.625181,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 45.026317,
+    "longitude": 34.043836,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Мотус",
+    "address": "Черноморское ш., 4Д, Евпатория",
+    "latitude": 45.213483,
+    "longitude": 33.356925,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "КТК",
+    "address": "Степная ул., 1А, село Садовое",
+    "latitude": 45.312617,
+    "longitude": 34.648573,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Vars",
+    "address": "Виноградная ул., 12А, село Приветное",
+    "latitude": 45.111834,
+    "longitude": 35.056343,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.053578,
+    "longitude": 34.294075,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Импульс",
+    "address": "",
+    "latitude": 44.967682,
+    "longitude": 33.619246,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Николая Бойко, 16А, Белогорск",
+    "latitude": 45.048246,
+    "longitude": 34.597347,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Мичурина, 1М, село Льговское",
+    "latitude": 45.108064,
+    "longitude": 34.972374,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. 2-й Гвардейской Армии, 10, Евпатория",
+    "latitude": 45.211323,
+    "longitude": 33.372318,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.125785,
+    "longitude": 33.693334,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "Щёлкино, 103/1",
+    "latitude": 45.426268,
+    "longitude": 35.813687,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "",
+    "latitude": 45.504685,
+    "longitude": 34.390285,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Гагарина, 123, село Лесновка",
+    "latitude": 45.148163,
+    "longitude": 33.608297,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Rvana",
+    "address": "Нижнегорская ул., 117, Белогорск",
+    "latitude": 45.061518,
+    "longitude": 34.574725,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Киевская ул., 183, Симферополь",
+    "latitude": 44.983555,
+    "longitude": 34.087114,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Хрусталёва, 74Г, Севастополь",
+    "latitude": 44.557835,
+    "longitude": 33.521459,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "Промышленная ул., 1, Бахчисарай",
+    "latitude": 44.76327,
+    "longitude": 33.863662,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Гоцуляка, 60, село Чистополье",
+    "latitude": 45.359532,
+    "longitude": 36.183956,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Новосёловское ш., 4, Евпатория",
+    "latitude": 45.208188,
+    "longitude": 33.394574,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Красноперекопское ш., 41, п. г. т. Раздольное",
+    "latitude": 45.778307,
+    "longitude": 33.497325,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Sota",
+    "address": "",
+    "latitude": 44.550105,
+    "longitude": 33.517776,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Vars",
+    "address": "ул. Ленина, 1В, село Первомайское",
+    "latitude": 45.059318,
+    "longitude": 35.171419,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Ars oil",
+    "address": "Евпаторийская ул., 61Б, село Мирное",
+    "latitude": 44.988142,
+    "longitude": 34.068143,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 44.582915,
+    "longitude": 33.513216,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Нефтетрейдер",
+    "address": "Республика Крым, Московское шоссе, 1А",
+    "latitude": 45.101047,
+    "longitude": 34.048972,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Нефтетрейдер",
+    "address": "Аральская ул., 10, Симферополь",
+    "latitude": 44.90951,
+    "longitude": 34.089733,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Sota",
+    "address": "ул. Генерала Коломийца, 11, Севастополь",
+    "latitude": 44.56792,
+    "longitude": 33.532959,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Симферопольская ул., 45А, Бахчисарай",
+    "latitude": 44.761611,
+    "longitude": 33.869374,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.12035,
+    "longitude": 35.207312,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Роскюгнефть",
+    "address": "",
+    "latitude": 45.572725,
+    "longitude": 32.846998,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Генерала Васильева, 43А, Симферополь",
+    "latitude": 44.931891,
+    "longitude": 34.071904,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Социальная",
+    "address": "",
+    "latitude": 45.048914,
+    "longitude": 34.616393,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Честное пионерское",
+    "address": "",
+    "latitude": 45.016524,
+    "longitude": 34.046706,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Ленина, 114, Алушта",
+    "latitude": 44.697796,
+    "longitude": 34.396332,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "",
+    "latitude": 45.402099,
+    "longitude": 34.742831,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Парашютная ул., 1Б, село Первомайское",
+    "latitude": 45.059616,
+    "longitude": 35.174437,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Симферопольское ш., 2Б, село Солнечное",
+    "latitude": 45.050847,
+    "longitude": 35.337377,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "",
+    "latitude": 45.22663,
+    "longitude": 33.695574,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "",
+    "latitude": 45.599086,
+    "longitude": 34.594832,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "Черниговская ул., 33, село Амурское",
+    "latitude": 45.279456,
+    "longitude": 34.140135,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 44.871043,
+    "longitude": 34.245201,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Трансдизель",
+    "address": "",
+    "latitude": 44.979775,
+    "longitude": 34.1204,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Веста",
+    "address": "ул. Чапаева, 4, Евпатория",
+    "latitude": 45.209808,
+    "longitude": 33.351026,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Ars oil",
+    "address": "ул. Беспалова, 200, Симферополь",
+    "latitude": 44.90511,
+    "longitude": 34.137095,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "",
+    "latitude": 45.457177,
+    "longitude": 34.818103,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Musnafta",
+    "address": "Республика Крым, Ялтинское шоссе, 2А",
+    "latitude": 44.900308,
+    "longitude": 34.17516,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Юг Нефть",
+    "address": "ул. Чапаева, 52Б, Старый Крым",
+    "latitude": 45.030248,
+    "longitude": 35.07914,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Бензоробот",
+    "address": "Киевская ул., 78, п. г. т. Красногвардейское",
+    "latitude": 45.511743,
+    "longitude": 34.301898,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "CRS",
+    "address": "",
+    "latitude": 45.506766,
+    "longitude": 34.313593,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Заправка ДТ",
+    "address": "ул. Ат-чапар, 34, Белогорск",
+    "latitude": 45.061497,
+    "longitude": 34.569456,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ИП Саидов",
+    "address": "",
+    "latitude": 45.211438,
+    "longitude": 33.386557,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "ул. Титова, 19, п. г. т. Красногвардейское",
+    "latitude": 45.49264,
+    "longitude": 34.291805,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Formula",
+    "address": "",
+    "latitude": 45.962836,
+    "longitude": 33.778929,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Московская ул., 188, Джанкой",
+    "latitude": 45.699508,
+    "longitude": 34.401505,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АГНС",
+    "address": "",
+    "latitude": 44.567777,
+    "longitude": 33.458968,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.094228,
+    "longitude": 34.85596,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "",
+    "latitude": 45.498693,
+    "longitude": 34.273885,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Советское ш., 7, п. г. т. Кировское",
+    "latitude": 45.23325,
+    "longitude": 35.202744,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Робот-заправщик Аи-92",
+    "address": "",
+    "latitude": 45.132864,
+    "longitude": 34.041148,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Объездная дорога, 5, Симферополь",
+    "latitude": 44.989132,
+    "longitude": 34.097629,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Баррель",
+    "address": "",
+    "latitude": 44.575734,
+    "longitude": 33.472059,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.502348,
+    "longitude": 33.879736,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Генерала Мельника, 148, Севастополь",
+    "latitude": 44.574626,
+    "longitude": 33.567067,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "КАЗС самообслуживания",
+    "address": "Камышовое ш., 69, Севастополь",
+    "latitude": 44.57019,
+    "longitude": 33.439435,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "ул. Гагарина, 67А, село Мартыновка",
+    "latitude": 45.882951,
+    "longitude": 34.331324,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Tes",
+    "address": "ул. Владимира Тюкова, 85А, село Орлиное",
+    "latitude": 44.448571,
+    "longitude": 33.772301,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.607219,
+    "longitude": 34.371964,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "Строительная ул., 4В, село Воинка",
+    "latitude": 45.867014,
+    "longitude": 34.006594,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "Крымская ул., 34, Джанкой",
+    "latitude": 45.711088,
+    "longitude": 34.389027,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Югтрансгаз",
+    "address": "Севастопольское ш., зд. 667, стр. А, село Чистенькое",
+    "latitude": 44.887996,
+    "longitude": 34.046602,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Чкалова, 138, Феодосия",
+    "latitude": 45.059448,
+    "longitude": 35.376012,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Восход",
+    "address": "",
+    "latitude": 45.494685,
+    "longitude": 34.292998,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "ул. Энгельса, 15А, п. г. т. Ленино",
+    "latitude": 45.299003,
+    "longitude": 35.775717,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "",
+    "latitude": 45.50677,
+    "longitude": 34.313581,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Олегор",
+    "address": "",
+    "latitude": 45.526839,
+    "longitude": 34.179523,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "FREE_SALE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "FREE_SALE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Ленина, 2К, Старый Крым",
+    "latitude": 45.038961,
+    "longitude": 35.10962,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 45.710948,
+    "longitude": 34.412641,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Газ",
+    "address": "Гаражная ул., 8А, село Заречное",
+    "latitude": 44.854263,
+    "longitude": 34.266234,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ANP",
+    "address": "Монастырское ш., 12, Севастополь",
+    "latitude": 44.529327,
+    "longitude": 33.505907,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Нефтетрейдер",
+    "address": "ул. Ленина, 50Г, село Вилино",
+    "latitude": 44.847165,
+    "longitude": 33.677494,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Роскюгнефть",
+    "address": "",
+    "latitude": 45.119756,
+    "longitude": 34.017624,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Виноградная ул., 18А, село Пушкино",
+    "latitude": 45.199102,
+    "longitude": 34.979334,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "ул. Мичурина, 1Б, село Новогригорьевка",
+    "latitude": 45.452868,
+    "longitude": 34.619951,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Триллон",
+    "address": "",
+    "latitude": 44.977067,
+    "longitude": 34.152389,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТАТ нафта",
+    "address": "ул. Чапаева, 50Б, Старый Крым",
+    "latitude": 45.031204,
+    "longitude": 35.082523,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Крымкурортсервис",
+    "address": "Индустриальная ул., 2, п. г. т. Черноморское",
+    "latitude": 45.49876,
+    "longitude": 32.713914,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Фрунзе, 1А, п. г. т. Кировское",
+    "latitude": 45.231792,
+    "longitude": 35.206828,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Vars",
+    "address": "ул. Ульянова, 15, село Изумрудное",
+    "latitude": 45.735866,
+    "longitude": 34.42231,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Кд АЗС",
+    "address": "",
+    "latitude": 45.180133,
+    "longitude": 34.955079,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Канон",
+    "address": "",
+    "latitude": 45.02522,
+    "longitude": 34.048746,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "ул. Гоголя, 1Б, п. г. т. Раздольное",
+    "latitude": 45.764434,
+    "longitude": 33.485208,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Социальная",
+    "address": "",
+    "latitude": 45.293405,
+    "longitude": 35.76501,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Musnafta",
+    "address": "",
+    "latitude": 45.008978,
+    "longitude": 34.035462,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "просп. Победы, 396, Симферополь",
+    "latitude": 44.989451,
+    "longitude": 34.159067,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "LK",
+    "address": "ул. Ленина, 27Б, село Долинное",
+    "latitude": 44.754076,
+    "longitude": 33.764331,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.236159,
+    "longitude": 33.358433,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Старт",
+    "address": "Базовая ул., 6А, Симферополь",
+    "latitude": 44.929741,
+    "longitude": 34.048844,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.325557,
+    "longitude": 34.667613,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 44.554578,
+    "longitude": 34.285958,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Опт SF",
+    "address": "",
+    "latitude": 45.064061,
+    "longitude": 35.378868,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС самообслуживания",
+    "address": "",
+    "latitude": 45.843657,
+    "longitude": 33.803707,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "Садовая ул., 58А, село Лесновка",
+    "latitude": 45.151185,
+    "longitude": 33.62394,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Спортивная ул., 1А, село Митяево",
+    "latitude": 45.228601,
+    "longitude": 33.695618,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "Юбилейная ул., 15, село Восход",
+    "latitude": 45.506014,
+    "longitude": 34.381147,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Экотоп",
+    "address": "Киевская ул., 189А, Симферополь",
+    "latitude": 44.988171,
+    "longitude": 34.086601,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "",
+    "latitude": 44.396832,
+    "longitude": 33.785032,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Цик",
+    "address": "Камышовое ш., 41, Севастополь",
+    "latitude": 44.56753,
+    "longitude": 33.459116,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "",
+    "latitude": 45.444813,
+    "longitude": 34.726075,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "ул. Черноморское Шоссе, 1, п. г. т. Раздольное",
+    "latitude": 45.761092,
+    "longitude": 33.490889,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Grifon",
+    "address": "Виноградная ул., 2В, село Владиславовка",
+    "latitude": 45.17245,
+    "longitude": 35.365316,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "СНП",
+    "address": "Фиолентовское ш., 5А, Севастополь",
+    "latitude": 44.581037,
+    "longitude": 33.478801,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС Социальная",
+    "address": "",
+    "latitude": 45.056961,
+    "longitude": 35.355599,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "",
+    "latitude": 45.607204,
+    "longitude": 34.37194,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Опт Sf",
+    "address": "Таврическая ул., 1А, Красноперекопск",
+    "latitude": 45.968226,
+    "longitude": 33.774903,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Юджакс",
+    "address": "",
+    "latitude": 44.892905,
+    "longitude": 34.078504,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.49858,
+    "longitude": 32.711514,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Extra",
+    "address": "Строительная ул., 4, село Воинка",
+    "latitude": 45.866474,
+    "longitude": 34.00536,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "",
+    "latitude": 45.70545,
+    "longitude": 34.37715,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Ars oil",
+    "address": "Полевая ул., 39, село Строгоновка",
+    "latitude": 44.936514,
+    "longitude": 34.194668,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Грифон",
+    "address": "",
+    "latitude": 45.023571,
+    "longitude": 34.047371,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "СНП",
+    "address": "Городское ш., 15, Севастополь",
+    "latitude": 44.547479,
+    "longitude": 33.534253,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Vars",
+    "address": "Южная ул., 1В, п. г. т. Нижнегорский",
+    "latitude": 45.442195,
+    "longitude": 34.750288,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Симферопольское ш., 34, село Верхняя Кутузовка",
+    "latitude": 44.735265,
+    "longitude": 34.37107,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Дюн",
+    "address": "",
+    "latitude": 45.492335,
+    "longitude": 34.291755,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "LPG",
+    "address": "ул. Пугачёва, 28А, Севастополь",
+    "latitude": 44.600747,
+    "longitude": 33.502004,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "Таврическая ул., 18, Красноперекопск",
+    "latitude": 45.949438,
+    "longitude": 33.796283,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "РедПетрол",
+    "address": "",
+    "latitude": 45.724289,
+    "longitude": 34.404667,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "Таврическая ул., 4А, Красноперекопск",
+    "latitude": 45.959801,
+    "longitude": 33.783314,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Баррель",
+    "address": "ул. Тараса Шевченко, 44, Севастополь",
+    "latitude": 44.576396,
+    "longitude": 33.456365,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Роскюгнефть",
+    "address": "",
+    "latitude": 45.292536,
+    "longitude": 34.649394,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Раздольненское ш., 1Д, Евпатория",
+    "latitude": 45.209498,
+    "longitude": 33.396461,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "ул. Ленина, 1В, село Первомайское",
+    "latitude": 45.059351,
+    "longitude": 35.171505,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "ул. Шакина, 7А, село Пруды",
+    "latitude": 45.245357,
+    "longitude": 34.701812,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "Черноморское ш., 4/1, Евпатория",
+    "latitude": 45.214374,
+    "longitude": 33.358633,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "ул. Генерала Васильева, 27Б, Симферополь",
+    "latitude": 44.937748,
+    "longitude": 34.071786,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Дюн",
+    "address": "Виноградная ул., 9, село Пушкино",
+    "latitude": 45.195662,
+    "longitude": 34.978966,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "Симферопольское ш., 2А, село Солнечное",
+    "latitude": 45.051214,
+    "longitude": 35.336831,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 44.964174,
+    "longitude": 34.077452,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Контейнерная заправка",
+    "address": "Мраморная ул., 1А, Симферополь",
+    "latitude": 44.964989,
+    "longitude": 34.077091,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.488527,
+    "longitude": 34.286378,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ТНК",
+    "address": "",
+    "latitude": 45.335278,
+    "longitude": 34.915726,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Нефтемагистраль",
+    "address": "ул. Чапаева, 2М, Старый Крым",
+    "latitude": 45.039572,
+    "longitude": 35.110653,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Кипарис-3",
+    "address": "ул. Хрусталёва, 74, Севастополь",
+    "latitude": 44.556872,
+    "longitude": 33.516708,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Роскюгнефть",
+    "address": "Промышленный пер., 20, п. г. т. Первомайское",
+    "latitude": 45.714197,
+    "longitude": 33.861914,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ATAN",
+    "address": "просп. Героев Сталинграда, 70, Севастополь",
+    "latitude": 44.593148,
+    "longitude": 33.448123,
+    "fuelStatus": {
+      "ai_92": "CARDS_ONLY",
+      "ai_95": "CARDS_ONLY",
+      "ai_95_plus": "CARDS_ONLY",
+      "ai_100": "CARDS_ONLY",
+      "dt": "CARDS_ONLY",
+      "dt_plus": "CARDS_ONLY",
+      "gas": "CARDS_ONLY"
+    }
+  },
+  {
+    "network": "Дюн",
+    "address": "",
+    "latitude": 45.695665,
+    "longitude": 34.391577,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 44.977267,
+    "longitude": 34.064437,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Рвана",
+    "address": "Гаражная ул., 7, село Найденовка",
+    "latitude": 45.27226,
+    "longitude": 34.457264,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Баррель",
+    "address": "ул. Руднева, 35А, Севастополь",
+    "latitude": 44.590761,
+    "longitude": 33.493124,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "Трудовая ул., 1А, п. г. т. Ленино",
+    "latitude": 45.300343,
+    "longitude": 35.785297,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Бензоробот",
+    "address": "",
+    "latitude": 45.487363,
+    "longitude": 34.301491,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Регион-Инвест",
+    "address": "Шелковичная ул., 36, Балаклава",
+    "latitude": 44.514957,
+    "longitude": 33.58554,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "ул. Белова, 6А, село Мирное",
+    "latitude": 44.97716,
+    "longitude": 34.06584,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "RedPetrol",
+    "address": "Джанкойская ул., 3А, Джанкой",
+    "latitude": 45.696048,
+    "longitude": 34.391788,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Д-макс",
+    "address": "",
+    "latitude": 45.210229,
+    "longitude": 33.38241,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Дюн",
+    "address": "Московская ул., 188, Джанкой",
+    "latitude": 45.699508,
+    "longitude": 34.401505,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Дюн",
+    "address": "",
+    "latitude": 45.610449,
+    "longitude": 34.378966,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Бензобот",
+    "address": "Керченское ш., 19А, корп. 1, Феодосия",
+    "latitude": 45.055189,
+    "longitude": 35.362335,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АГНКС",
+    "address": "",
+    "latitude": 44.890007,
+    "longitude": 34.04764,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Метановая заправка",
+    "address": "",
+    "latitude": 44.614988,
+    "longitude": 33.603768,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Дюн",
+    "address": "ул. Победы, 14, п. г. т. Нижнегорский",
+    "latitude": 45.434529,
+    "longitude": 34.738985,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Мой сам",
+    "address": "ул. Маршала Жукова, 40, Симферополь",
+    "latitude": 44.946212,
+    "longitude": 34.054174,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Автомойка самообслуживания",
+    "address": "Киевская ул., 156Б, Симферополь",
+    "latitude": 44.983493,
+    "longitude": 34.084462,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Елена",
+    "address": "",
+    "latitude": 45.260445,
+    "longitude": 34.124545,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АГЗС Пропан-Бутан",
+    "address": "Ялтинская ул., 22Г, п. г. т. Гурзуф",
+    "latitude": 44.55461,
+    "longitude": 34.284992,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "",
+    "latitude": 45.441163,
+    "longitude": 34.749605,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "ДизельАЗС",
+    "address": "Южнобережное ш., 1А, п. г. т. Массандра",
+    "latitude": 44.510498,
+    "longitude": 34.182141,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Партнер",
+    "address": "",
+    "latitude": 45.08438,
+    "longitude": 34.298816,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Лето",
+    "address": "Степная ул., 1А, село Семисотка",
+    "latitude": 45.239074,
+    "longitude": 35.557241,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС",
+    "address": "Севастополь, садовое товарищество Куликово Поле, 79А",
+    "latitude": 44.575615,
+    "longitude": 33.525326,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Electro. cars",
+    "address": "ул. Очаковцев, 2, Севастополь",
+    "latitude": 44.608237,
+    "longitude": 33.518232,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АЗС самообслуживания",
+    "address": "",
+    "latitude": 45.947795,
+    "longitude": 33.798616,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Дюн",
+    "address": "",
+    "latitude": 45.448883,
+    "longitude": 34.786181,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Автозаправочная станция",
+    "address": "",
+    "latitude": 45.185026,
+    "longitude": 35.22037,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "АМП Проминдустрия",
+    "address": "ул. Глинки, 63А, Симферополь",
+    "latitude": 44.976962,
+    "longitude": 34.149159,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Dioh",
+    "address": "Октябрьская ул., 190, Джанкой",
+    "latitude": 45.724228,
+    "longitude": 34.404846,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Техас-Крым",
+    "address": "Керченское ш., 27, Феодосия",
+    "latitude": 45.075151,
+    "longitude": 35.390909,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Морской нефтяной терминал",
+    "address": "Геологическая ул., 2, Феодосия",
+    "latitude": 45.06545,
+    "longitude": 35.394592,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Дюн",
+    "address": "Таврическая ул., 4А, Красноперекопск",
+    "latitude": 45.962847,
+    "longitude": 33.778954,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Мой сам",
+    "address": "ул. Бела Куна, 43, Симферополь",
+    "latitude": 44.980976,
+    "longitude": 34.131728,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Ривьера газ",
+    "address": "Московская ул., 46А, село Богатое",
+    "latitude": 45.031312,
+    "longitude": 34.765519,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Варз",
+    "address": "Республика Крым, городской округ Ялта, Южнобережное шоссе, 5",
+    "latitude": 44.485191,
+    "longitude": 34.12957,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Магазин не",
+    "address": "ул. Крупской, 71, п. г. т. Красногвардейское",
+    "latitude": 45.50311,
+    "longitude": 34.302242,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  },
+  {
+    "network": "Фонтан",
+    "address": "Таврическая ул., 20, Красноперекопск",
+    "latitude": 45.943848,
+    "longitude": 33.803165,
+    "fuelStatus": {
+      "ai_92": "NOT_AVAILABLE",
+      "ai_95": "NOT_AVAILABLE",
+      "ai_95_plus": "NOT_AVAILABLE",
+      "ai_100": "NOT_AVAILABLE",
+      "dt": "NOT_AVAILABLE",
+      "dt_plus": "NOT_AVAILABLE",
+      "gas": "NOT_AVAILABLE"
+    }
+  }
+]

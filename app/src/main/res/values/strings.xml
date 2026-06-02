@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuelLocator</string>
+    <string name="search_hint">Поиск АЗС...</string>
+    <string name="filter_fuel_type">Вид топлива</string>
+    <string name="filter_region">Район</string>
+    <string name="filter_payment">Вид отпуска</string>
+    <string name="all_fuel_types">Все</string>
+    <string name="all_regions">Все регионы</string>
+    <string name="all_payment_methods">Все виды</string>
+    <string name="my_location">Моё местоположение</string>
+    <string name="edit_fuel">Обновить наличие</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="logout">Выйти</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="phone">Номер телефона</string>
+    <string name="skip_login">Пропустить (только просмотр)</string>
+    <string name="login_prompt">Войдите, чтобы обновлять данные</string>
+    <string name="login_with_phone">Войти по номеру телефона</string>
+    <string name="updated_ago">Обновлено: %s</string>
+    <string name="distance_from_you">%s от вас</string>
+    <string name="route">Маршрут</string>
+    <string name="update_data">Обновить</string>
+    <string name="comment_hint">Комментарий (необязательно)</string>
+    <string name="select_availability">Выберите наличие для каждого вида:</string>
+    <string name="payment_methods_title">Виды отпуска:</string>
+    <string name="login_required">Необходима авторизация</string>
+    <string name="login_required_message">Для обновления данных о наличии топлива необходимо войти в аккаунт</string>
+    <string name="error_login">Ошибка входа</string>
+    <string name="error_register">Ошибка регистрации</string>
+    <string name="error_save">Ошибка сохранения</string>
+    <string name="success_save">Данные сохранены</string>
+    <string name="no_data">Нет данных</string>
+    <string name="free_sale">Свободная продажа</string>
+    <string name="cards_only">Талоны/Карты</string>
+    <string name="not_available">Нет в наличии</string>
+    <string name="unknown_status">Нет данных</string>
+    <string name="location_permission_rationale">Для отображения вашего местоположения на карте необходимо разрешение</string>
+</resources>
