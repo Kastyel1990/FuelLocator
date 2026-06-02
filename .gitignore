@@ -23,3 +23,7 @@ local.properties
 /.gemini/
 test.json
 claude.md
+Заправки.txt
+test_overpass.py
+fetch_gas_stations.py
+scrape_all.py
